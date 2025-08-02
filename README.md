@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I am Mridul Jain , studying B.Tech in Computer Science<br>👯 Open to Work / Internship<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Programming
+Hello I am Mridul Jain , studying B.Tech in AI-ML<br>👯 Open to Work / Internship<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Programming
 
 
 ## 🌐 Socials:
